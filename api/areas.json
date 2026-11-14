@@ -1,0 +1,198 @@
+{
+ "generated_at": "2026-11-14 15:54 UTC",
+ "areas": [
+  {
+   "code": "elections",
+   "label": "Elections",
+   "description": "Who wins and by how much, at every level",
+   "sort": 0,
+   "types": [
+    {
+     "code": "senate-race",
+     "label": "Senate race",
+     "description": "Who wins an individual Senate race"
+    },
+    {
+     "code": "house-race",
+     "label": "House race",
+     "description": "Who wins an individual House race"
+    },
+    {
+     "code": "governor-state-race",
+     "label": "Governor and state races",
+     "description": "Governors, attorneys general, mayors, state legislatures"
+    },
+    {
+     "code": "presidential",
+     "label": "Presidential election",
+     "description": "The general election, electoral votes, popular vote"
+    },
+    {
+     "code": "primaries-candidacy",
+     "label": "Primaries and candidacy",
+     "description": "Nominations, primaries, who runs, who drops out, endorsements"
+    },
+    {
+     "code": "chamber-control",
+     "label": "Chamber control and seat totals",
+     "description": "Which party controls a chamber; seat counts and net gains"
+    },
+    {
+     "code": "ballot-measure",
+     "label": "Ballot measures",
+     "description": "Referenda and ballot initiatives"
+    },
+    {
+     "code": "polls-turnout-aftermath",
+     "label": "Polls, turnout and aftermath",
+     "description": "Polling accuracy, voter-group shifts, concessions, recounts, certification"
+    }
+   ],
+   "questions": 15,
+   "answers": 72,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html"
+  },
+  {
+   "code": "white-house",
+   "label": "White House",
+   "description": "What the president and the executive branch do",
+   "sort": 1,
+   "types": [
+    {
+     "code": "personnel",
+     "label": "Personnel and nominations",
+     "description": "Who is nominated, fired or resigns from an executive or judicial post"
+    },
+    {
+     "code": "executive-action",
+     "label": "Executive action and diplomacy",
+     "description": "Executive orders, pardons, tariffs, regulations, treaties, deals, sanctions"
+    },
+    {
+     "code": "military-action",
+     "label": "Military action",
+     "description": "US strikes, deployments, use of force"
+    }
+   ],
+   "questions": 1,
+   "answers": 4,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/areas/white-house.html"
+  },
+  {
+   "code": "congress",
+   "label": "Congress",
+   "description": "What the House and Senate do",
+   "sort": 2,
+   "types": [
+    {
+     "code": "legislation-budget",
+     "label": "Legislation and budget",
+     "description": "Passage of bills, shutdowns, appropriations, the debt limit"
+    },
+    {
+     "code": "congress-votes",
+     "label": "Confirmations, leadership and oversight",
+     "description": "Confirmation votes, Speaker and leader contests, impeachments, subpoenas"
+    }
+   ],
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/areas/congress.html"
+  },
+  {
+   "code": "courts",
+   "label": "Courts and law",
+   "description": "Rulings, prosecutions and judicial outcomes",
+   "sort": 3,
+   "types": [
+    {
+     "code": "court-rulings",
+     "label": "Court rulings",
+     "description": "Supreme Court and lower-court decisions and vacancies"
+    },
+    {
+     "code": "prosecutions",
+     "label": "Prosecutions",
+     "description": "Indictments, trials, verdicts, sentences"
+    }
+   ],
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/areas/courts.html"
+  },
+  {
+   "code": "economy",
+   "label": "Economy",
+   "description": "Indicators, markets and the Fed",
+   "sort": 4,
+   "types": [
+    {
+     "code": "economy-markets",
+     "label": "Economy and markets",
+     "description": "Inflation, jobs, GDP, recession, stocks, rates, prices"
+    },
+    {
+     "code": "fed",
+     "label": "Federal Reserve",
+     "description": "Fed decisions and Fed personnel"
+    }
+   ],
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/areas/economy.html"
+  },
+  {
+   "code": "world",
+   "label": "World",
+   "description": "Events decided outside the United States",
+   "sort": 5,
+   "types": [
+    {
+     "code": "foreign-conflict-leaders",
+     "label": "Foreign conflict and leaders",
+     "description": "Wars, coups, regime change, foreign leaders entering or leaving office, not decided by the US"
+    },
+    {
+     "code": "foreign-election",
+     "label": "Foreign elections",
+     "description": "Elections outside the United States"
+    }
+   ],
+   "questions": 1,
+   "answers": 4,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/areas/world.html"
+  },
+  {
+   "code": "politics",
+   "label": "Politics and parties",
+   "description": "Party fights, leadership and public opinion",
+   "sort": 6,
+   "types": [
+    {
+     "code": "party-politics-opinion",
+     "label": "Party politics and public opinion",
+     "description": "Party leadership and internal fights; approval ratings and polls of opinion"
+    }
+   ],
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/areas/politics.html"
+  },
+  {
+   "code": "other",
+   "label": "Other",
+   "description": "Anything else",
+   "sort": 7,
+   "types": [
+    {
+     "code": "other",
+     "label": "Other",
+     "description": "Anything else; the question's note says why nothing fits"
+    }
+   ],
+   "questions": 1,
+   "answers": 4,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/areas/other.html"
+  }
+ ]
+}

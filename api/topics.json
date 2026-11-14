@@ -1,0 +1,351 @@
+{
+ "generated_at": "2026-11-14 15:54 UTC",
+ "topics": [
+  {
+   "code": "midterms-2026",
+   "label": "2026 midterms",
+   "description": null,
+   "aliases": [
+    "2026",
+    "midterm",
+    "midterms",
+    "senate races",
+    "house races"
+   ],
+   "sort": 0,
+   "questions": 13,
+   "answers": 64,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+  },
+  {
+   "code": "presidential-2028",
+   "label": "2028 presidential race",
+   "description": null,
+   "aliases": [
+    "2028",
+    "president",
+    "nomination",
+    "primary"
+   ],
+   "sort": 1,
+   "questions": 2,
+   "answers": 8,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/presidential-2028.html"
+  },
+  {
+   "code": "trump-administration",
+   "label": "Trump administration",
+   "description": null,
+   "aliases": [
+    "trump",
+    "white house",
+    "cabinet",
+    "administration",
+    "hegseth",
+    "vance"
+   ],
+   "sort": 2,
+   "questions": 1,
+   "answers": 4,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/trump-administration.html"
+  },
+  {
+   "code": "congress",
+   "label": "Congress",
+   "description": null,
+   "aliases": [
+    "house",
+    "senate",
+    "speaker",
+    "shutdown",
+    "reconciliation",
+    "filibuster"
+   ],
+   "sort": 3,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/congress.html"
+  },
+  {
+   "code": "supreme-court",
+   "label": "Supreme Court and courts",
+   "description": null,
+   "aliases": [
+    "scotus",
+    "court",
+    "ruling",
+    "judge",
+    "justice"
+   ],
+   "sort": 4,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/supreme-court.html"
+  },
+  {
+   "code": "ukraine-russia",
+   "label": "Ukraine and Russia",
+   "description": null,
+   "aliases": [
+    "ukraine",
+    "russia",
+    "putin",
+    "zelensky",
+    "ceasefire"
+   ],
+   "sort": 5,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/ukraine-russia.html"
+  },
+  {
+   "code": "israel-gaza",
+   "label": "Israel and Gaza",
+   "description": null,
+   "aliases": [
+    "israel",
+    "gaza",
+    "hamas",
+    "netanyahu",
+    "hostages"
+   ],
+   "sort": 6,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/israel-gaza.html"
+  },
+  {
+   "code": "iran",
+   "label": "Iran",
+   "description": null,
+   "aliases": [
+    "iran",
+    "tehran",
+    "nuclear",
+    "regime"
+   ],
+   "sort": 7,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/iran.html"
+  },
+  {
+   "code": "china-taiwan",
+   "label": "China and Taiwan",
+   "description": null,
+   "aliases": [
+    "china",
+    "taiwan",
+    "beijing",
+    "xi",
+    "blockade"
+   ],
+   "sort": 8,
+   "questions": 1,
+   "answers": 4,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/china-taiwan.html"
+  },
+  {
+   "code": "europe-nato",
+   "label": "Europe and NATO",
+   "description": null,
+   "aliases": [
+    "nato",
+    "europe",
+    "eu",
+    "france",
+    "germany",
+    "uk",
+    "britain"
+   ],
+   "sort": 9,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/europe-nato.html"
+  },
+  {
+   "code": "immigration",
+   "label": "Immigration and the border",
+   "description": null,
+   "aliases": [
+    "immigration",
+    "border",
+    "deportation",
+    "ice",
+    "asylum"
+   ],
+   "sort": 10,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/immigration.html"
+  },
+  {
+   "code": "tariffs-trade",
+   "label": "Tariffs and trade",
+   "description": null,
+   "aliases": [
+    "tariff",
+    "tariffs",
+    "trade",
+    "trade deal"
+   ],
+   "sort": 11,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/tariffs-trade.html"
+  },
+  {
+   "code": "economy-inflation",
+   "label": "Economy and inflation",
+   "description": null,
+   "aliases": [
+    "economy",
+    "inflation",
+    "recession",
+    "jobs",
+    "gdp",
+    "markets",
+    "stocks"
+   ],
+   "sort": 12,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/economy-inflation.html"
+  },
+  {
+   "code": "federal-reserve",
+   "label": "Federal Reserve",
+   "description": null,
+   "aliases": [
+    "fed",
+    "federal reserve",
+    "rates",
+    "powell"
+   ],
+   "sort": 13,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/federal-reserve.html"
+  },
+  {
+   "code": "energy-climate",
+   "label": "Energy and climate",
+   "description": null,
+   "aliases": [
+    "energy",
+    "oil",
+    "gas",
+    "climate"
+   ],
+   "sort": 14,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/energy-climate.html"
+  },
+  {
+   "code": "tech-ai",
+   "label": "Technology and AI",
+   "description": null,
+   "aliases": [
+    "tech",
+    "ai",
+    "artificial intelligence",
+    "tiktok"
+   ],
+   "sort": 15,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/tech-ai.html"
+  },
+  {
+   "code": "health-policy",
+   "label": "Health policy",
+   "description": null,
+   "aliases": [
+    "health",
+    "medicare",
+    "medicaid",
+    "obamacare",
+    "aca",
+    "vaccines"
+   ],
+   "sort": 16,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/health-policy.html"
+  },
+  {
+   "code": "trump-legal",
+   "label": "Trump legal cases",
+   "description": null,
+   "aliases": [
+    "indictment",
+    "trial",
+    "prosecution",
+    "pardon"
+   ],
+   "sort": 17,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/trump-legal.html"
+  },
+  {
+   "code": "democrats",
+   "label": "Democratic Party",
+   "description": null,
+   "aliases": [
+    "democrats",
+    "dnc",
+    "democratic"
+   ],
+   "sort": 18,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/democrats.html"
+  },
+  {
+   "code": "republicans",
+   "label": "Republican Party",
+   "description": null,
+   "aliases": [
+    "republicans",
+    "gop",
+    "rnc",
+    "republican"
+   ],
+   "sort": 19,
+   "questions": 2,
+   "answers": 8,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/republicans.html"
+  },
+  {
+   "code": "media-culture",
+   "label": "Media and culture",
+   "description": null,
+   "aliases": [
+    "media",
+    "press",
+    "culture",
+    "sports",
+    "entertainment"
+   ],
+   "sort": 20,
+   "questions": 0,
+   "answers": 0,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/media-culture.html"
+  },
+  {
+   "code": "audit-the-editors",
+   "label": "Audit the Editors (about this project)",
+   "description": null,
+   "aliases": [
+    "meta",
+    "audit"
+   ],
+   "sort": 21,
+   "questions": 1,
+   "answers": 4,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/topics/audit-the-editors.html"
+  }
+ ]
+}

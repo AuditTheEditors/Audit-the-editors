@@ -1,0 +1,1394 @@
+{
+ "generated_at": "2026-11-14 15:54 UTC",
+ "questions": [
+  {
+   "qid": "Q-0018",
+   "slug": "2028-pres-republican-wins",
+   "title": "Will a Republican win the 2028 presidential election",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "presidential",
+   "type_label": "Presidential election",
+   "topics": [
+    "presidential-2028",
+    "republicans"
+   ],
+   "topic_labels": [
+    "2028 presidential race",
+    "Republican Party"
+   ],
+   "answer_type": "probability",
+   "deadline": "2028-11-07",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "YES if the Republican Party's nominee wins the 2028 US presidential election by winning a majority of electoral votes (or, failing an Electoral College majority, is chosen president through the contingent election). NO if a candidate of any other party or an independent wins. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2028-general|ocd-division/country:us|president|party:R|winner|2028-11-07",
+   "first_asked_episode": 925,
+   "first_asked_on": "2026-11-10",
+   "actual_pick_value": null,
+   "actual_number": null,
+   "resolved_on": null,
+   "source_url": null,
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "50% Vance nominee; no higher than 10% Republicans win 2028",
+     "editor": "Charles C. W. Cooke",
+     "hedged": false,
+     "stated": "party:R",
+     "episode": 925,
+     "outcome": "pending"
+    },
+    {
+     "raw": "40% Vance nominee; 50% (coin flip) Republican wins 2028",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "party:R",
+     "episode": 925,
+     "outcome": "pending"
+    },
+    {
+     "raw": "50% Vance nominee; 40% GOP wins 2028",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "party:R",
+     "episode": 925,
+     "outcome": "pending"
+    },
+    {
+     "raw": "40% Republican wins 2028 (\"refuse to go any lower than 40%\")",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "party:R",
+     "episode": 925,
+     "outcome": "pending"
+    }
+   ],
+   "entity_names": [
+    "Republican Party"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": null,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0018.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/presidential-2028.html",
+    "https://audittheeditors.github.io/Audit-the-editors/topics/republicans.html"
+   ]
+  },
+  {
+   "qid": "Q-0019",
+   "slug": "2028-gop-nomination-jd-vance",
+   "title": "Will J.D. Vance win the 2028 Republican presidential nomination",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "primaries-candidacy",
+   "type_label": "Primaries and candidacy",
+   "topics": [
+    "presidential-2028",
+    "republicans"
+   ],
+   "topic_labels": [
+    "2028 presidential race",
+    "Republican Party"
+   ],
+   "answer_type": "probability",
+   "deadline": "2028-07-31",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "YES if J.D. Vance is the Republican Party's nominee for president in 2028. NO if anyone else is the nominee. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2028-gop-primary|ocd-division/country:us|president|entity:jd-vance|winner|2028-07-31",
+   "first_asked_episode": 925,
+   "first_asked_on": "2026-11-10",
+   "actual_pick_value": null,
+   "actual_number": null,
+   "resolved_on": null,
+   "source_url": null,
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "50% Vance nominee",
+     "editor": "Charles C. W. Cooke",
+     "hedged": false,
+     "stated": "entity:jd-vance",
+     "episode": 925,
+     "outcome": "pending"
+    },
+    {
+     "raw": "40% Vance nominee",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:jd-vance",
+     "episode": 925,
+     "outcome": "pending"
+    },
+    {
+     "raw": "50% Vance nominee",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:jd-vance",
+     "episode": 925,
+     "outcome": "pending"
+    },
+    {
+     "raw": "50% Vance nominee (the host answering his own question)",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:jd-vance",
+     "episode": 925,
+     "outcome": "pending"
+    }
+   ],
+   "entity_names": null,
+   "resolution_authority": "ap_call",
+   "source_title": null,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0019.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/presidential-2028.html",
+    "https://audittheeditors.github.io/Audit-the-editors/topics/republicans.html"
+   ]
+  },
+  {
+   "qid": "Q-0015",
+   "slug": "hegseth-secdef-end-jan-2027",
+   "title": "Will Pete Hegseth still be Secretary of Defense (War) at the end of January 2027",
+   "area_code": "white-house",
+   "area_label": "White House",
+   "type_code": "personnel",
+   "type_label": "Personnel and nominations",
+   "topics": [
+    "trump-administration"
+   ],
+   "topic_labels": [
+    "Trump administration"
+   ],
+   "answer_type": "probability",
+   "deadline": "2027-01-31",
+   "deadline_basis": "stated",
+   "resolution_criteria": "Pete Hegseth holds the office of Secretary of Defense (also styled Secretary of War) on January 31, 2027. YES means he holds it; an announced but not yet effective departure still counts as holding. Resignation, dismissal or any other departure before that date means NO. Decided by the responsible body's own published record (an official announcement, filing, vote, opinion or data release). Resolves when the answer is a matter of record; the deadline is 2027-01-31.",
+   "canonical_key": "hegseth-defense-tenure-2027-01|ocd-division/country:us|secretary-of-defense|-|winner|2027-01-31",
+   "first_asked_episode": 924,
+   "first_asked_on": "2026-11-05",
+   "actual_pick_value": null,
+   "actual_number": null,
+   "resolved_on": null,
+   "source_url": null,
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "No",
+     "editor": "Dan Foster",
+     "hedged": false,
+     "stated": "not:entity:pete-hegseth",
+     "episode": 924,
+     "outcome": "pending"
+    },
+    {
+     "raw": "If he survives two weeks, he survives through January",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": null,
+     "episode": 924,
+     "outcome": "pending"
+    },
+    {
+     "raw": "Yes, he'll still be there (probably)",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:pete-hegseth",
+     "episode": 924,
+     "outcome": "pending"
+    },
+    {
+     "raw": "Gone by end of January",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "not:entity:pete-hegseth",
+     "episode": 924,
+     "outcome": "pending"
+    }
+   ],
+   "entity_names": [
+    "Pete Hegseth"
+   ],
+   "resolution_authority": "official_record",
+   "source_title": null,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0015.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/white-house.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/trump-administration.html"
+   ]
+  },
+  {
+   "qid": "Q-0016",
+   "slug": "audit-the-editors-outlasts-the-editors",
+   "title": "Will Audit the Editors still be operating when The Editors podcast ends",
+   "area_code": "other",
+   "area_label": "Other",
+   "type_code": "other",
+   "type_label": "Other",
+   "topics": [
+    "audit-the-editors"
+   ],
+   "topic_labels": [
+    "Audit the Editors (about this project)"
+   ],
+   "answer_type": "pick",
+   "deadline": null,
+   "deadline_basis": "open",
+   "resolution_criteria": "Audit the Editors (@AuditTheEditors) is still publishing its tracking of The Editors, and has covered every episode up to that point, when The Editors publishes its final episode or National Review formally discontinues the show. YES means it is; stopping or being dropped before then means NO. Decided by checking the primary record itself (the feed, the account, the publication). Open-ended: resolves when the answer becomes a matter of record.",
+   "canonical_key": "audit-the-editors-continuation|ocd-division/country:us|-|-|winner|-",
+   "first_asked_episode": 924,
+   "first_asked_on": "2026-11-05",
+   "actual_pick_value": null,
+   "actual_number": null,
+   "resolved_on": null,
+   "source_url": null,
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Sticks around as long as the checks clear, then goes away (joke)",
+     "editor": "Dan Foster",
+     "hedged": false,
+     "stated": null,
+     "episode": 924,
+     "outcome": "pending"
+    },
+    {
+     "raw": "Endorses Dan's answer",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": null,
+     "episode": 924,
+     "outcome": "pending"
+    },
+    {
+     "raw": "Still around; \"not going anywhere\"",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:audit-the-editors",
+     "episode": 924,
+     "outcome": "pending"
+    },
+    {
+     "raw": "Peter out; \"I don't think it's going to last\"",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "not:entity:audit-the-editors",
+     "episode": 924,
+     "outcome": "pending"
+    }
+   ],
+   "entity_names": [
+    "Audit the Editors"
+   ],
+   "resolution_authority": "direct_observation",
+   "source_title": null,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0016.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/other.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/audit-the-editors.html"
+   ]
+  },
+  {
+   "qid": "Q-0001",
+   "slug": "2026-sen-nc-winner",
+   "title": "Who wins the North Carolina Senate race in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 North Carolina US Senate general election. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:nc|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "entity:roy-cooper",
+   "actual_number": null,
+   "resolved_on": "2026-11-03",
+   "source_url": "https://apnews.com/article/north-carolina-senate-roy-cooper-michael-whatley-6cc139bf37efe41050796457d3d57b74",
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Roy Cooper (D)",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:roy-cooper",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Cooper",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:roy-cooper",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Cooper wins comfortably",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:roy-cooper",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Cooper (implied by 'we're all at D plus one')",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:roy-cooper",
+     "episode": 923,
+     "outcome": "correct"
+    }
+   ],
+   "entity_names": [
+    "Michael Whatley",
+    "Roy Cooper"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Democrat Roy Cooper wins North Carolina Senate seat",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0001.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0002",
+   "slug": "2026-sen-sc-winner",
+   "title": "Who wins the South Carolina Senate race in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 South Carolina US Senate general election. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:sc|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "party:D",
+   "actual_number": null,
+   "resolved_on": "2026-11-03",
+   "source_url": "https://apnews.com/article/darline-graham-annie-andrews-south-carolina-midterms-74fc0bf08f5822378fcfa2fe09377d69",
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Graham ekes it out",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:darline-graham",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Graham loses (D pickup)",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "less confident R hold",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:darline-graham",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Graham barely holds",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:darline-graham",
+     "episode": 923,
+     "outcome": "incorrect"
+    }
+   ],
+   "entity_names": [
+    "Democratic Party",
+    "Lindsey Graham"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Democrat Annie Andrews wins over Republican Darline Graham in South Carolina Senate",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0002.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0003",
+   "slug": "2026-sen-me-winner",
+   "title": "Who wins the Maine Senate race in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 Maine US Senate general election, after ranked-choice tabulation if no candidate has a first-round majority. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:me|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "entity:troy-jackson",
+   "actual_number": null,
+   "resolved_on": "2026-11-04",
+   "source_url": "https://www.wmtw.com/article/maine-senate-election-results-2026-collins-jackson/74296175",
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Collins holds by 4-5",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:susan-collins",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Collins hold",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:susan-collins",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Collins ekes it out, not confident",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:susan-collins",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Collins",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:susan-collins",
+     "episode": 923,
+     "outcome": "incorrect"
+    }
+   ],
+   "entity_names": [
+    "Democratic Party",
+    "Susan Collins"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "WMTW: AP calls Maine Senate race for Troy Jackson after Sen. Susan Collins concedes",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0003.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0004",
+   "slug": "2026-sen-mi-winner",
+   "title": "Who wins the Michigan Senate race in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 Michigan US Senate general election. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:mi|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "entity:abdul-el-sayed",
+   "actual_number": null,
+   "resolved_on": "2026-11-04",
+   "source_url": "https://apnews.com/article/michigan-senate-abdul-elsayed-mike-rogers-election-d546ffbcf04fbb4eb581f63f807a0609",
+   "predictions": 8,
+   "picks": [
+    {
+     "raw": "49% El-Sayed (favors Rogers)",
+     "editor": "Andrew Stuttaford",
+     "hedged": false,
+     "stated": "entity:abdul-el-sayed",
+     "episode": 920,
+     "outcome": "scored"
+    },
+    {
+     "raw": "51% El-Sayed",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:abdul-el-sayed",
+     "episode": 920,
+     "outcome": "scored"
+    },
+    {
+     "raw": "52% El-Sayed",
+     "editor": "Phil Klein",
+     "hedged": false,
+     "stated": "entity:abdul-el-sayed",
+     "episode": 920,
+     "outcome": "scored"
+    },
+    {
+     "raw": "57% El-Sayed",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:abdul-el-sayed",
+     "episode": 920,
+     "outcome": "scored"
+    },
+    {
+     "raw": "El-Sayed",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:abdul-el-sayed",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "El-Sayed",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:abdul-el-sayed",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "El-Sayed's race to lose",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:abdul-el-sayed",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "El-Sayed",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:abdul-el-sayed",
+     "episode": 923,
+     "outcome": "correct"
+    }
+   ],
+   "entity_names": [
+    "Abdul El-Sayed",
+    "Mike Rogers"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Progressive Democrat Abdul El-Sayed wins Michigan Senate race",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0004.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0005",
+   "slug": "2026-sen-oh-winner",
+   "title": "Who wins the Ohio Senate special election in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 Ohio US Senate special general election. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:oh|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "entity:sherrod-brown",
+   "actual_number": null,
+   "resolved_on": "2026-11-03",
+   "source_url": "https://apnews.com/article/election-2026-ohio-senate-brown-husted-9e7ae9e1715c0e8203614aea6f71666d",
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Brown (confirmed by host 'So it's Brown.')",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:sherrod-brown",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Brown",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:sherrod-brown",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Democratic gain (Brown)",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:sherrod-brown",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Brown",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:sherrod-brown",
+     "episode": 923,
+     "outcome": "correct"
+    }
+   ],
+   "entity_names": [
+    "Jon Husted",
+    "Sherrod Brown"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Sherrod Brown flips Senate seat in Ohio for Democrats by ousting Sen. Jon Husted",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0005.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0006",
+   "slug": "2026-sen-tx-winner",
+   "title": "Who wins the Texas Senate race in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 Texas US Senate general election. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:tx|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "entity:james-talarico",
+   "actual_number": null,
+   "resolved_on": "2026-11-03",
+   "source_url": "https://apnews.com/article/texas-senate-talarico-paxton-midterm-election-66df71a7c2bfa962cffd4134ef1a0364",
+   "predictions": 8,
+   "picks": [
+    {
+     "raw": "exactly 50-50",
+     "editor": "Charles C. W. Cooke",
+     "hedged": false,
+     "stated": null,
+     "episode": 917,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Tallarico",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:james-talarico",
+     "episode": 917,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Tallarico",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:james-talarico",
+     "episode": 917,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Tallarico (at the moment; previously Paxton in earlier episodes)",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:james-talarico",
+     "episode": 917,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Talarico",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:james-talarico",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Talarico",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:james-talarico",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Paxton, not confident",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:ken-paxton",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Talarico",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:james-talarico",
+     "episode": 923,
+     "outcome": "correct"
+    }
+   ],
+   "entity_names": [
+    "James Talarico",
+    "Ken Paxton"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Democrat James Talarico flips a US Senate seat in Texas",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0006.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0007",
+   "slug": "2026-sen-ia-winner",
+   "title": "Who wins the Iowa Senate race in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 Iowa US Senate general election. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:ia|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "entity:josh-turek",
+   "actual_number": null,
+   "resolved_on": "2026-11-03",
+   "source_url": "https://apnews.com/article/iowa-senate-hinson-turek-midterm-election-312fe1f8e1f4a569ae5f24312d873bcb",
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Democrat Josh Durek picks it up",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:josh-turek",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Hinson",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:ashley-hinson",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Hinson hold, tight",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:ashley-hinson",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Hinson",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:ashley-hinson",
+     "episode": 923,
+     "outcome": "incorrect"
+    }
+   ],
+   "entity_names": [
+    "Ashley Hinson",
+    "Josh Turek"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Democrat Josh Turek wins election to the US Senate from Iowa",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0007.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0008",
+   "slug": "2026-sen-ks-winner",
+   "title": "Who wins the Kansas Senate race in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 Kansas US Senate general election. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:ks|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "entity:adam-hamilton",
+   "actual_number": null,
+   "resolved_on": "2026-11-03",
+   "source_url": "https://apnews.com/article/senate-kansas-election-roger-marshall-adam-hamilton-7f09e5cc69e0ac8e618376e60ef311d8",
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Marshall hangs on",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:roger-marshall",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Democrats (Hamilson)",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:adam-hamilton",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Marshall hold, not sanguine",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:roger-marshall",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "Hamilson (Democrat), low confidence",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:adam-hamilton",
+     "episode": 923,
+     "outcome": "correct"
+    }
+   ],
+   "entity_names": [
+    "Democratic Party",
+    "Roger Marshall"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Pastor Adam Hamilton ousts GOP Sen. Roger Marshall in Kansas",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0008.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0009",
+   "slug": "2026-sen-ak-winner",
+   "title": "Who wins the Alaska Senate race in 2026",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "senate-race",
+   "type_label": "Senate race",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The candidate who wins the 2026 Alaska US Senate general election, after ranked-choice tabulation if no candidate has a first-round majority. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when the race is called.",
+   "canonical_key": "2026-general|ocd-division/country:us/state:ak|senate|-|winner|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": null,
+   "actual_number": null,
+   "resolved_on": null,
+   "source_url": null,
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Sullivan ekes it out",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "entity:dan-sullivan",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "Peltola",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "entity:mary-peltola",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "Peltola ekes it out",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "entity:mary-peltola",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "Sullivan, coin toss",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "entity:dan-sullivan",
+     "episode": 923,
+     "outcome": "pending"
+    }
+   ],
+   "entity_names": [
+    "Dan Sullivan",
+    "Mary Peltola"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": null,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0009.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0010",
+   "slug": "2026-house-d-net-gain",
+   "title": "Democratic House seats after the 2026 midterms",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "chamber-control",
+   "type_label": "Chamber control and seat totals",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "number",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The number of US House seats won by Democrats in the 2026 general election, as a total. An answer given on air as D+N is stored as 215+N, 215 being the Democratic count the panel used. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves once every race that bears on the number has been called.",
+   "canonical_key": "2026-general|ocd-division/country:us|house|party:D|seat_total|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": null,
+   "actual_number": null,
+   "resolved_on": null,
+   "source_url": null,
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "D+12, 227 Democrats",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "227",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "236 Democrats, +22",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "236",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "230 Democrats, +15 (14 to 17)",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "230",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "D+25",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "240",
+     "episode": 923,
+     "outcome": "pending"
+    }
+   ],
+   "entity_names": [
+    "Democratic Party"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": null,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0010.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0013",
+   "slug": "2026-sen-d-net-gain",
+   "title": "Democratic Senate seats after the 2026 midterms",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "chamber-control",
+   "type_label": "Chamber control and seat totals",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "number",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The number of US Senate seats held by Democrats and the independents who caucus with them once every 2026 Senate race, including any runoff, is decided, as a total. An answer given on air as D+N is stored as 47+N. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves once every race that bears on the number has been called.",
+   "canonical_key": "2026-general|ocd-division/country:us|senate|party:D|seat_total|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": null,
+   "actual_number": null,
+   "resolved_on": null,
+   "source_url": null,
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "D+4, Democrats take the Senate",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "51",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "D+5, Democrats take the Senate",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "52",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "D+3, Republicans hold the Senate",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "50",
+     "episode": 923,
+     "outcome": "pending"
+    },
+    {
+     "raw": "D+4, Democrats take the Senate",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "51",
+     "episode": 923,
+     "outcome": "pending"
+    }
+   ],
+   "entity_names": [
+    "Democratic Party"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": null,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0013.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0017",
+   "slug": "2026-house-control",
+   "title": "Which party controls the US House after the 2026 elections",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "chamber-control",
+   "type_label": "Chamber control and seat totals",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "pick",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "The party that wins a majority of US House seats in the 2026 general election. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when control is called.",
+   "canonical_key": "2026-general|ocd-division/country:us|house|-|control|2026-11-03",
+   "first_asked_episode": 923,
+   "first_asked_on": "2026-11-02",
+   "actual_pick_value": "party:D",
+   "actual_number": null,
+   "resolved_on": "2026-11-04",
+   "source_url": "https://apnews.com/article/when-ap-calls-congress-control-9dae62cdd7d776a20a26eab6fbd9b12c",
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "Democrats (Jeffries Speaker)",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Democrats (working majority)",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Democrats (230 seats implies control)",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "Democrats (D+25 implies control)",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 923,
+     "outcome": "correct"
+    }
+   ],
+   "entity_names": [
+    "Democratic Party"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Democrats hit 218 House seats early Wednesday (control call explainer)",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0017.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0011",
+   "slug": "2026-senate-control-dem",
+   "title": "Do Democrats win control of the US Senate in the 2026 elections",
+   "area_code": "elections",
+   "area_label": "Elections",
+   "type_code": "chamber-control",
+   "type_label": "Chamber control and seat totals",
+   "topics": [
+    "midterms-2026"
+   ],
+   "topic_labels": [
+    "2026 midterms"
+   ],
+   "answer_type": "probability",
+   "deadline": "2026-11-03",
+   "deadline_basis": "event_date",
+   "resolution_criteria": "Which party controls the US Senate after the 2026 elections, including any runoffs: Democrats if they and the independents who caucus with them hold at least 51 seats, or 50 with a Democratic vice-presidential tiebreak; otherwise Republicans. A YES answer means Democrats. Decided by the Associated Press's call. If AP has not called it within 60 days of election day, the certified official result decides. Resolves when control is called.",
+   "canonical_key": "2026-general|ocd-division/country:us|senate|-|control|2026-11-03",
+   "first_asked_episode": 921,
+   "first_asked_on": "2026-10-27",
+   "actual_pick_value": "party:D",
+   "actual_number": null,
+   "resolved_on": "2026-11-03",
+   "source_url": "https://apnews.com/article/when-ap-calls-congress-control-9dae62cdd7d776a20a26eab6fbd9b12c",
+   "predictions": 8,
+   "picks": [
+    {
+     "raw": "60% Democrats take the Senate (six out of ten times)",
+     "editor": "Charles C. W. Cooke",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 921,
+     "outcome": "scored"
+    },
+    {
+     "raw": "about 60% Democrats take the Senate",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 921,
+     "outcome": "scored"
+    },
+    {
+     "raw": "51% Democrats take the Senate",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 921,
+     "outcome": "scored"
+    },
+    {
+     "raw": "49% Democrats take the Senate",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 921,
+     "outcome": "scored"
+    },
+    {
+     "raw": "D+4, Democrats take the Senate",
+     "editor": "Jim Geraghty",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "D+5, Democrats take the Senate",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 923,
+     "outcome": "correct"
+    },
+    {
+     "raw": "D+3, Republicans hold the Senate",
+     "editor": "Noah Rothman",
+     "hedged": false,
+     "stated": "party:R",
+     "episode": 923,
+     "outcome": "incorrect"
+    },
+    {
+     "raw": "D+4, Democrats take the Senate",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "party:D",
+     "episode": 923,
+     "outcome": "correct"
+    }
+   ],
+   "entity_names": [
+    "Democratic Party"
+   ],
+   "resolution_authority": "ap_call",
+   "source_title": "AP: Democrats took the Senate late Tuesday (control call explainer)",
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0011.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/elections.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/midterms-2026.html"
+   ]
+  },
+  {
+   "qid": "Q-0014",
+   "slug": "china-aggressive-move-taiwan-by-2029-01-20",
+   "title": "Will China make an aggressive move against Taiwan before Trump's second term ends (January 20, 2029)",
+   "area_code": "world",
+   "area_label": "World",
+   "type_code": "foreign-conflict-leaders",
+   "type_label": "Foreign conflict and leaders",
+   "topics": [
+    "china-taiwan"
+   ],
+   "topic_labels": [
+    "China and Taiwan"
+   ],
+   "answer_type": "probability",
+   "deadline": "2029-01-20",
+   "deadline_basis": "stated",
+   "resolution_criteria": "Between the air date and noon ET on January 20, 2029, the People's Republic of China takes an aggressive military or coercive action against Taiwan beyond routine exercises and incursions: a blockade or quarantine, seizure of Taiwan-held territory such as an outlying island, a kinetic strike, or an invasion. Decided by the Associated Press or Reuters reporting that it has happened. Resolves YES as soon as the event is recorded as having happened on or before 2029-01-20; otherwise NO on 2029-01-20.",
+   "canonical_key": "china-aggressive-move-taiwan|CN|-|country:TW|occurs_by|2029-01-20",
+   "first_asked_episode": 912,
+   "first_asked_on": "2026-09-25",
+   "actual_pick_value": null,
+   "actual_number": null,
+   "resolved_on": null,
+   "source_url": null,
+   "predictions": 4,
+   "picks": [
+    {
+     "raw": "15% (15-20%)",
+     "editor": "Charles C. W. Cooke",
+     "hedged": false,
+     "stated": "yes",
+     "episode": 912,
+     "outcome": "pending"
+    },
+    {
+     "raw": "about 15%",
+     "editor": "Dan Foster",
+     "hedged": false,
+     "stated": "yes",
+     "episode": 912,
+     "outcome": "pending"
+    },
+    {
+     "raw": "about 1%",
+     "editor": "Michael Brendan Dougherty",
+     "hedged": false,
+     "stated": "yes",
+     "episode": 912,
+     "outcome": "pending"
+    },
+    {
+     "raw": "about 10%",
+     "editor": "Rich Lowry",
+     "hedged": false,
+     "stated": "yes",
+     "episode": 912,
+     "outcome": "pending"
+    }
+   ],
+   "entity_names": [
+    "China",
+    "Donald Trump",
+    "Taiwan"
+   ],
+   "resolution_authority": "wire_report",
+   "source_title": null,
+   "url": "https://audittheeditors.github.io/Audit-the-editors/questions/Q-0014.html",
+   "area_url": "https://audittheeditors.github.io/Audit-the-editors/areas/world.html",
+   "topic_urls": [
+    "https://audittheeditors.github.io/Audit-the-editors/topics/china-taiwan.html"
+   ]
+  }
+ ]
+}
